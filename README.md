@@ -44,6 +44,8 @@ A special thanks to our amazing contributors:
 -   William Ely
     
 -   Riesz
+  
+-   Mark Bauermeister
     
 -   Christian Bar
     
